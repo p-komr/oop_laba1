@@ -1,3 +1,3 @@
-from Ship import *
+from ship.Ship import *
 class Strenght(Ship):
     pass
